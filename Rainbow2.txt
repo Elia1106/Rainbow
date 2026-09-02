@@ -1,7 +1,1 @@
-red
-Orange
-Gelb
-Grün
-Blau
-miguelIndigo
-Violett
+Hello world from local
